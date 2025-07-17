@@ -1,4 +1,4 @@
-# TypeScript and Vue with Frontend Masters
+# TypeScript and Vue with Frontend Masters - Caro's fork
 
 Watch the full course on the [Frontend Masters website](https://frontendmasters.com/courses/vue-typescript).
 
